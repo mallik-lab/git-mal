@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is the 3rd textdoxument file
-=======
-this is third file
->>>>>>> 5213be1435122dbae22f68e4f7643012445e51b1
